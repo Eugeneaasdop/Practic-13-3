@@ -1,0 +1,67 @@
+C:\Users\Студент\source\repos\ПР 13\ПР 13\bin\Debug\ПР 13.exe.config
+C:\Users\Студент\source\repos\ПР 13\ПР 13\bin\Debug\ПР 13.exe
+C:\Users\Студент\source\repos\ПР 13\ПР 13\bin\Debug\ПР 13.pdb
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\App.g.cs
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\ПР 13_MarkupCompile.cache
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\ПР 13_MarkupCompile.lref
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\MainWindow.baml
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\ПР 13.g.resources
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\ПР_13.Properties.Resources.resources
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\ПР 13.exe
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\ПР 13.pdb
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\WindowAdd.g.cs
+C:\Users\Студент\source\repos\ПР 13\ПР 13\obj\Debug\WindowAdd.baml
+C:\Users\Студент\Desktop\ПР 13\ПР 13\bin\Debug\ПР 13.exe.config
+C:\Users\Студент\Desktop\ПР 13\ПР 13\bin\Debug\ПР 13.exe
+C:\Users\Студент\Desktop\ПР 13\ПР 13\bin\Debug\ПР 13.pdb
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\WindowAdd.g.cs
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР 13_MarkupCompile.cache
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР 13_MarkupCompile.lref
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\WindowAdd.baml
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР 13.g.resources
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР_13.Properties.Resources.resources
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР 13.exe
+C:\Users\Студент\Desktop\ПР 13\ПР 13\obj\Debug\ПР 13.pdb
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\bin\Debug\ПР 13.exe.config
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\bin\Debug\ПР 13.exe
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\bin\Debug\ПР 13.pdb
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\WindowAdd.g.cs
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР 13_MarkupCompile.cache
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР 13_MarkupCompile.lref
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\WindowAdd.baml
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР 13.g.resources
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР_13.Properties.Resources.resources
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР 13.exe
+C:\Users\user\Desktop\Ионин ПР13.2\ПР 13\ПР 13\obj\Debug\ПР 13.pdb
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\bin\Debug\ПР 13.exe.config
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\bin\Debug\ПР 13.exe
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\bin\Debug\ПР 13.pdb
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\MainWindow.g.cs
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\WindowAdd.g.cs
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\App.g.cs
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР 13_MarkupCompile.cache
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР 13_MarkupCompile.lref
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\MainWindow.baml
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\WindowAdd.baml
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР 13.g.resources
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР_13.Properties.Resources.resources
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.GenerateResource.cache
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР 13.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР 13.exe
+C:\Users\Студент\Desktop\Серебрянников Пр13\ПР 13\ПР 13\obj\Debug\ПР 13.pdb

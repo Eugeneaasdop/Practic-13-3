@@ -1,0 +1,140 @@
+﻿<Window x:Class="ПР_13.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ПР_13"
+        mc:Ignorable="d"
+        Title="Склад" Height="750" Width="1200">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <StackPanel Grid.Column="1"
+                    Orientation="Vertical"
+                    VerticalAlignment="Top"
+                    Background="AliceBlue" Height="709">
+            <Button Name="BtnPrint"
+                    Width="130"
+                    Height="30"
+                    Content="Список Товаров"
+                    Margin="5"
+                    Click="BtnPrint_Click"
+                    Background="Green"/>
+            <TextBlock Text="Поиск"
+                       Width="130"
+                       Height="20"
+                       Margin="5"/>
+            <TextBox Width="130"
+                     Height="30"
+                     Name="TxtSearch"
+                     TextChanged="TxtSearch_TextChanged"/>
+            <Button Name="BtnAdd"
+                    Click="BtnAdd_Click"
+                    Width="130"
+                    Height="30"
+                    Content="Добавить товар"
+                    Margin="5"
+                    Background="White"/>
+            <Button Name="BtnClear"
+                    Click="BtnClear_Click"
+                    Width="130"
+                    Height="30"
+                    Content="Очистить"
+                    Margin="5"
+                    Background="White"/>
+            <Button Name="BtnOpen"
+                    Click="BtnOpen_Click"
+                    Width="130"
+                    Height="30"
+                    Content="Открыть"
+                    Margin="5"
+                    Background="Yellow"/>
+            <Button Name="BtnSave"
+                    Click="BtnSave_Click"
+                    Width="130"
+                    Height="30"
+                    Content="Сохранить как"
+                    Margin="5"
+                    Background="Red"/>
+            <StackPanel Orientation="Vertical"
+                        VerticalAlignment="Center"
+                        Height="80" Width="130">
+                <TextBlock Text="Сортировка" Margin="5"/>
+                <RadioButton Content="От А до Я"
+                             Margin="5"
+                             Name="RbUp"
+                             Checked="RbUp_Checked"/>
+                <RadioButton Content="От Я до А"
+                             Margin="5"
+                             Name="RbDown"
+                             Checked="RbDown_Checked"/>
+            </StackPanel>
+            <StackPanel Orientation="Vertical"
+                        VerticalAlignment="Center"
+                        Height="50" Width="130">
+                <TextBlock Text="Фильтр по количеству"/>
+                <ComboBox Name="CmbFiltr"
+                    SelectionChanged="CmbFiltr_SelectionChanged">
+                    <ComboBoxItem Content="от 0 до 10"/>
+                    <ComboBoxItem Content="от 11 до 50"/>
+                    <ComboBoxItem Content="от 51 и более"/>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Width="166">
+                <TextBlock Text="Количество записей в списке"
+                           HorizontalAlignment="Center"/>
+                <TextBox Name="txbcount" TextAlignment="Center"/>
+            </StackPanel>
+        </StackPanel>
+        <StackPanel Orientation="Vertical"
+                    VerticalAlignment="Top"
+                    Grid.Column="0"
+                                          Background="Aqua">
+            <Image Height="200" Source="Resources/Shop.png"
+                    Margin="5"/>
+            <DataGrid Name="DtgListProduct"
+                      IsReadOnly="True"
+                      Margin="5"
+                      AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn
+                        Header="Название" Width="*"
+                        Binding="{Binding NameProduct}"/>
+                    <DataGridTextColumn
+                        Header="Количество" Width="*"
+                        Binding="{Binding NameShop}"/>
+                    <DataGridTextColumn
+                        Header="Цена" Width="*"
+                        Binding="{Binding PriceProduct}"/>
+                    <DataGridTextColumn
+                        Header="Срок хранения" Width="*"
+                        Binding="{Binding CountProduct}"/>
+                    <DataGridTemplateColumn>
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal"
+                                            HorizontalAlignment="Center">
+                                    <Button 
+                                    Margin="5"
+                                    Width="100"
+                                    Name="BtnEdit"
+                                    Click="BtnEdit_Click"
+                                    Content="Редактировать"/>
+                                    <Button 
+                                    Margin="5"
+                                    Width="100"
+                                    Name="BtnDelete"
+                                    Click="BtnDelete_Click"
+                                    Content="Удалить"/>
+                                </StackPanel>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </StackPanel>
+    </Grid>
+</Window>
